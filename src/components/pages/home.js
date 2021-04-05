@@ -24,6 +24,16 @@ function Home(){
         View on <a href="https://www.linkedin.com/in/chetan-sekhon-a996571b8/">Linkedin</a>
       </span>
     </p>
+    <p className="card-footer-item">
+      <span>
+        Email <a href="https://accounts.google.com/ServiceLogin/signinchooser?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Chetansekhon@gmail.com </a>
+      </span>
+    </p>
+    <p className="card-footer-item">
+      <span>
+        Email <a href="">4253191721</a>
+      </span>
+    </p>
   </footer>
 </div>
         </div>

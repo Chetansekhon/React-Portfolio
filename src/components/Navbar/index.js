@@ -36,7 +36,7 @@ function Navbar() {
           </Link> */}
 
           <Link className="navbar-item" to="/about">
-            About Me
+            Projects
           </Link>
         </div>
 

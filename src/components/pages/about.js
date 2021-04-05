@@ -7,6 +7,7 @@ function About(){
                 title="Coding Collective"  
                 url="https://github.com/zhanez/Coding-collective" 
                 deployedUrl="https://coding-collective.herokuapp.com/"
+                image="../../images/forest.jpg"
            ></ProjectItem>
            <ProjectItem 
                 title="Feast with Friends" 
