@@ -61,6 +61,7 @@ flex-wrap: wrap;
 .home {
   background-size: cover;
 }
-.about .image {
-  size: 1280x960;
+
+img {
+  width: 400px;
 }

@@ -5,7 +5,7 @@ function ProjectItem({ title, children, url, deployedUrl, image }){
         <div className="card">
   <div className="card-image">
     <figure className="image is-4by3">
-      <a href={deployedUrl} ><img src="https://bulma.io/images/placeholders/1280x960.png" alt="{Placeholder image}"/>{image}</a>
+      <a href={deployedUrl} ><img src="https://bulma.io/images/placeholders/1280x960.png" alt="{Placeholder image}"/></a>
     </figure>
   </div>
   <div className="card-content">

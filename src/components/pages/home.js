@@ -9,9 +9,6 @@ function Home(){
     <p className="title">
       My name is Chetan Sekhon, and I am a Full Stack Developer from Seattle, WA. Please take some time to explore my portfolio and feel free to reach out through Linkedin or my email.
     </p>
-    <p className="subtitle">
-      Jeff Atwood
-    </p>
   </div>
   <footer className="card-footer">
     <p className="card-footer-item">
@@ -32,6 +29,11 @@ function Home(){
     <p className="card-footer-item">
       <span>
         Email <a href="">4253191721</a>
+      </span>
+    </p>
+    <p className="card-footer-item">
+      <span>
+        View <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:2ef2c6c2-577f-4db3-94ad-0928b7ca8f04">Resume</a>
       </span>
     </p>
   </footer>
