@@ -29,9 +29,9 @@ function About(){
                 deployedUrl="https://note-taker-cs.herokuapp.com/notes"
             />
             <ProjectItem
-                title="Code Refactor" 
-                url="https://github.com/Chetansekhon/Refactor-SEO"
-                deployedUrl="https://github.com/Chetansekhon/Refactor-SEO"
+                title="Budget Tracker" 
+                url="https://github.com/Chetansekhon/Budget-Tracker"
+                deployedUrl="https://radiant-citadel-85718.herokuapp.com/"
             />
         
        </div>
