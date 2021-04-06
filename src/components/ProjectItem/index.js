@@ -1,11 +1,11 @@
 import React from "react";
 
-function ProjectItem({ title, children, url, deployedUrl, image }){
+function ProjectItem({ title, children, url, deployedUrl, imageUrl }){
     return(
         <div className="card">
   <div className="card-image">
     <figure className="image is-4by3">
-      <a href={deployedUrl} ><img src="https://bulma.io/images/placeholders/1280x960.png" alt="{Placeholder image}"/></a>
+      <a href={deployedUrl} ><img src={imageUrl} alt="Project Image" ></img></a>
     </figure>
   </div>
   <div className="card-content">
@@ -19,7 +19,7 @@ function ProjectItem({ title, children, url, deployedUrl, image }){
       {children}
       <br/>
      <a href={url} target="_blank"> 
-         View project
+         View Project on Github
      </a>
     </div>
   </div>
