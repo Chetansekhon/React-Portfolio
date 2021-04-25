@@ -13,27 +13,27 @@ function Home(){
   <footer className="card-footer">
     <p className="card-footer-item">
       <span>
-        View on <a href="https://github.com/Chetansekhon">Github</a>
+        <a href="https://github.com/Chetansekhon"><i className="fab fa-github iconSize"></i></a>
       </span>
     </p>
     <p className="card-footer-item">
       <span>
-        View on <a href="https://www.linkedin.com/in/chetan-sekhon-a996571b8/">Linkedin</a>
+      <a href="https://www.linkedin.com/in/chetan-sekhon-a996571b8/"><i className="fab fa-linkedin-in iconSize"></i></a>
       </span>
     </p>
     <p className="card-footer-item">
       <span>
-        Email <a href="https://accounts.google.com/ServiceLogin/signinchooser?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Chetansekhon@gmail.com </a>
+      <i className="fas fa-at iconSize"></i> Chetansekhon@gmail.com
       </span>
     </p>
     <p className="card-footer-item">
       <span>
-        Email <a href="">4253191721</a>
-      </span>
+      <i class="fas fa-phone-alt iconSize"></i>  (425)319-1721
+      </span> 
     </p>
     <p className="card-footer-item">
       <span>
-        View <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:2ef2c6c2-577f-4db3-94ad-0928b7ca8f04">Resume</a>
+      <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:2ef2c6c2-577f-4db3-94ad-0928b7ca8f04"><i className="fas fa-file-pdf iconSize"></i></a>
       </span>
     </p>
   </footer>

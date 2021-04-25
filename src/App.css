@@ -65,3 +65,7 @@ flex-wrap: wrap;
 .imageUrl {
   width: auto;
 }
+
+.iconSize{
+  font-size: 36px;
+}
